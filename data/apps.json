@@ -42,7 +42,8 @@
                 { "id": "filen", "name": "Filen" },
                 { "id": "photoprism", "name": "PhotoPrism" },
                 { "id": "fossify_gallery", "name": "Fossify Gallery" },
-                { "id": "murena_workspace", "name": "Murena Gallery" }
+                { "id": "murena_workspace", "name": "Murena Gallery" },
+                { "id": "aves_gallery", "name": "Aves Gallery" }
             ]
         },
         {
